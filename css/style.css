@@ -55,7 +55,15 @@ p {
 	text-align: center;
 	color: #777;
 }
-/** Start Coding Here **/
+
+img {
+	height: 400px;
+	width: 350px;
+	margin: 3em;
+	border: 2px solid #777;
+	border-radius: 5px;
+	box-shadow: -1px 2px 3px #777;
+}
 
 /** 
 Modify CSS to hide links on small width and show button and select
